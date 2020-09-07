@@ -1,0 +1,68 @@
+*{
+	margin: 0; padding: 0;
+}
+section {
+	padding-bottom: 50px;
+}
+.skyblue{
+     background:skyblue;
+	height:100px;
+	width:100px;
+	position:absolute;
+	margin-bottom: 80px;
+}
+/* Example-2 */
+
+/* Example-3 */
+#p1{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+/* Example-4 */
+/* Example-5 */
+.panel, .flip{
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #555;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+
+.panel {
+  padding: 50px;
+  display: none;
+}
+/* Example-6 */
+/* Example-7 */
+#div1{
+	height:100px;
+	width:300px;
+	border:1px solid black;
+	background-color:#ddd;
+}
+/* Example-8 */
+.important {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.blue {
+  color: blue;
+}
+/* Example-10 */
+.teal{
+	background:teal;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+/* Example-12 */
+.green{
+	background:green;
+	height:100px;
+	width:100px;
+	position:absolute;
+	margin-bottom: 100px;
+}
